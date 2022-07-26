@@ -1,0 +1,345 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 266px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Saira;
+  margin: 112px auto 51px 202px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 107px;
+    margin-left: auto;
+    margin-bottom: 56px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: 102px 22px 45px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 196px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: 87px -260px 57px -50px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 238px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin: 131px -30px 41px;
+  }
+} .u-section-2 {
+  background-image: url("images/group-of-young-happy-business-people-looking-at-la-2022-01-19-00-16-23-utc1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 583px;
+}
+
+.u-section-2 .u-video-1 {
+  height: 360px;
+  width: 640px;
+  margin: 37px auto 0 238px;
+}
+
+.u-section-2 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  height: 100%;
+  top: 0;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 38px auto 60px;
+  padding: 17px 94px 18px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 701px;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-left: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 674px;
+  }
+
+  .u-section-2 .u-video-1 {
+    margin-top: 54px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 70px;
+    margin-right: 83px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 542px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 300px;
+    margin-top: 39px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 31px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 572px;
+  }
+
+  .u-section-2 .u-video-1 {
+    height: 190px;
+    margin-top: 202px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 36px;
+    margin-right: auto;
+    margin-left: 0;
+    padding: 10px 0 11px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 142px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: Saira;
+  margin: 57px 227px 33px 392px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    width: 403px;
+    margin-left: 292px;
+    margin-right: 127px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 182px;
+    margin-right: 17px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 55px;
+    margin-right: 118px;
+    margin-left: 19px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+
+
+
+
+
+    /* ComentÃ¡rios */
+
+#comentarios {
+    background-color: #FFFCFC;
+    border:solid 1px #EBEBEB;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    color: #333;
+    text-align: left !important;
+    padding: 30px 50px 30px 50px;
+    font-size: 14px;
+    width: 960px;
+    max-width: 100%;
+   
+    
+}
+
+.count-c {
+    font-weight: 600;
+    border-bottom: solid 1px #dcdcdc;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.face-c {
+    font-weight: 500;
+    border-top: solid 1px #dcdcdc;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    color: #666666;
+    font-size: 12px;
+}
+
+.face-c img {
+    width: 17px;
+    border-radius: 2px;
+    margin-right: 10px;
+    margin-top: -1px;
+}
+
+.foto-c, .foto-c img {
+    background-color:#999;
+    width:50px;
+    height: 50px;
+    float: left;
+}
+
+.nome-c {
+    padding: 0px 0px 0px 10px;
+    display: grid;
+    font-weight: 800;
+    color:#365899;
+    font-size: 13px;
+}
+
+.comentario-c {
+    padding: 0px 0px 0px 10px;
+    display: grid;
+    color:#090909;
+    font-size: 14px;
+    
+}
+
+.hora-c{
+    color: #93979F;
+    padding: 10px 0px 0px 0px;
+    font-size: 10px;
+} 
+
+.c-content {
+    margin: 0px 0px 30px 0px;
+}
+
+.resposta {
+    margin-top: -10px;
+    margin-left: 40px;
+    padding: 0px 0px 0px 10px;
+    border-left: solid 1px #dcdcdc;
+}
+
+.resposta-c {
+    margin-bottom: 10px;
+}
+
+.blue {
+    color:#4a7cdc;
+    font-weight: 600;
+}
+
+.c-section {
+    position: relative;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    
+    background-repeat: repeat-x;
+    background-size: auto 250px;
+}
+
+.c1, .c2, .c3, .c4, .c5, .c6 {
+    position: absolute;
+}
+
+.c1 {
+    top: 15%;
+    right: -900px;
+}
+
+.c2 {
+    top: 18%;
+    left: -900px;
+}
+
+.c3 {
+    top: 34%;
+    right: -237px;
+}
+
+.c4 {
+    top: 51%;
+    left: -680px;
+}
+
+.c5 {
+    top: 67%;
+    right: -1140px;
+}
+
+.c6 {
+    top: 84%;
+    left: -300px;
+}
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 480px){
+
+    .count-c, .face-c {
+        padding-left:10px;
+    }
+
+    #comentarios {
+        padding: 10px;
+        padding-right:15px;
+        border-radius: 5px;
+    }
+
